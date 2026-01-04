@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siamijk
+- 👋 Hi, I’m @etcvai
 - 👀 I’m interested in ...coding, streaming, designing & cracking
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...google
